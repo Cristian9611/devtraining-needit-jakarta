@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_report_import_table_parent" label="Rep 155327 6ead8e780f603200cd674f8ce1050ed1 Admin Bitacora3" max_length="40" name="u_rep_155327_6ead8e780f603200cd674f8ce1050ed1_admin_bitacora3" sizeclass="19" type="collection">
+        <element attributes="import_attribute_name=Demo Evangelist,edge_encryption_enabled=true" label="Demo Evangelist" max_length="40" name="u_demo_evangelist" type="string"/>
+        <element attributes="import_attribute_name=Demo Location,edge_encryption_enabled=true" label="Demo Location" max_length="40" name="u_demo_location" type="string"/>
+        <element attributes="import_attribute_name=HHD Identifier,edge_encryption_enabled=true" label="HHD Identifier" max_length="40" name="u_hhd_identifier" type="string"/>
+        <element attributes="import_attribute_name=Prototype Number,edge_encryption_enabled=true" label="Prototype Number" max_length="40" name="u_prototype_number" type="string"/>
+    </element>
+</database>
